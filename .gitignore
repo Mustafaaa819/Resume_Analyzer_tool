@@ -1,0 +1,6 @@
+.env
+resume_data.csv
+.vscode/
+__pycache__/
+.venv/
+Rankings.csv
